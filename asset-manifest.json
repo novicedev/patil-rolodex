@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/patil-rolodex/static/css/main.89804aa2.chunk.css",
+    "main.js": "/patil-rolodex/static/js/main.8ac3a0da.chunk.js",
+    "main.js.map": "/patil-rolodex/static/js/main.8ac3a0da.chunk.js.map",
+    "runtime-main.js": "/patil-rolodex/static/js/runtime-main.619236ea.js",
+    "runtime-main.js.map": "/patil-rolodex/static/js/runtime-main.619236ea.js.map",
+    "static/js/2.7aaef059.chunk.js": "/patil-rolodex/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/patil-rolodex/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/patil-rolodex/index.html",
+    "precache-manifest.eac8392a3172ff96ecfa037a19a731d1.js": "/patil-rolodex/precache-manifest.eac8392a3172ff96ecfa037a19a731d1.js",
+    "service-worker.js": "/patil-rolodex/service-worker.js",
+    "static/css/main.89804aa2.chunk.css.map": "/patil-rolodex/static/css/main.89804aa2.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/patil-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.619236ea.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.89804aa2.chunk.css",
+    "static/js/main.8ac3a0da.chunk.js"
+  ]
+}
